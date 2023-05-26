@@ -1,8 +1,8 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "private": true,
-  "homepage": "https://tonysm-10.github.io/my-portfolio/",
+  "private": false,
+  "homepage": "https://tonysm-10.github.io/my-portfolio",
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
     "@fortawesome/free-brands-svg-icons": "^6.4.0",
