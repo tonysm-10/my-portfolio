@@ -1,0 +1,3 @@
+[submodule "my-app/my-app/node_modules/.cache/gh-pages"]
+	path = my-app/my-app/node_modules/.cache/gh-pages
+	url = https://github.com/tonysm-10/my-portfolio.git
